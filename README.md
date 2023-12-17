@@ -1,4 +1,4 @@
-The GitHub repository "OOM-X-IIoT" is focused on Manifold Adversarial Attacks in Cybersecurity and the Industrial Internet of Things (IIoT). This innovative approach is a first in these fields.
+This GitHub repository, titled "OOM-X-IIoT," is dedicated to showcasing our pioneering work on Manifold Adversarial Attacks in the context of Cybersecurity and the Industrial Internet of Things (IIoT). As far as we are aware, this is the first instance of such an approach in these domains.
 
 The repository is structured into three directories, with a refined focus on the ON-X-IIoT Directory:
 

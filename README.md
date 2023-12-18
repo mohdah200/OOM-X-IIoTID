@@ -10,7 +10,7 @@ The repository is structured into three directories, with a refined focus on the
   
     
 
-2. **ON-X-IIoT Directory**: In the ON-X-IIoT directory, we feature On-manifold samples that are generated using our SAAE model. This directory is distinctly organized and includes two types of samples: Normal samples, and a combination of On-manifold and attack samples. For the sake of simplicity, we categorize both the attack samples and the On-manifold samples under a single category labeled 'attack'. This simplification allows for a more streamlined classification and analysis of the manifold adversarial impacts in the IIoT domain.
+2. **ON-X-IIoT Directory**: In the ON-X-IIoT directory, we feature On-manifold samples that are generated using our Silency Adversarial Autoencoder (SAAE) model. generates On-manifold adversarial attacks using two optimization algorithms. The first algorithm identifies perturbations in High-Dimensional (H-D) space, while the second finds perturbations in Low-Dimensional (L-D) space, utilizing a generative optimization algorithm. This directory is distinctly organized and includes two types of samples: Normal samples, and a combination of On-manifold and attack samples. For the sake of simplicity, we categorize both the attack samples and the On-manifold samples under a single category labeled 'attack'. This simplification allows for a more streamlined classification and analysis of the manifold adversarial impacts in the IIoT domain.
 
 3. **OFF-ON-X-IIoT Directory**:In this directory, we have generated adversarial attack samples based on attack transferability using the X-IIoTID dataset and a set of adversarial algorithms, namely JSMA, FGSM, BIM, DF, C&W L2, and Linf. The directory contains three main files.
  

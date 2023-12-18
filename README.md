@@ -4,7 +4,7 @@ The name "OOM-X-IIoTID" is derived from the integration of ON and OFF manifold a
 
 The repository is structured into three directories, with a refined focus on the ON-X-IIoT Directory:
 
-1. **Original Dataset Directory  (X-IIoTID)**:  The GitHub repository features a structured arrangement of files under the 'Clean Attack' category:
+1. **Original Dataset Directory  (X-IIoTID)**: In this directory, we have the following files representing the original dataset::
 
     - Multi-XIIoTD: Multiclass Format File – This file offers a detailed view of the dataset in a multiclass format.
 

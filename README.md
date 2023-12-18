@@ -12,7 +12,7 @@ The repository is structured into three directories, with a refined focus on the
 
     -  train: Training Set File – Comprising 90% of the data, this file is intended for training models.
 
-    -test: Testing Set File – This file contains the remaining 10% of the data, designated for testing models.
+    -  test: Testing Set File – This file contains the remaining 10% of the data, designated for testing models.
 
     - Clean_Attack_Examples: Normal Attack Samples File – Featuring 319,553 samples of cybersecurity attacks (Normal attack samples), this file represents the dataset before the addition of adversarial inputs.
 

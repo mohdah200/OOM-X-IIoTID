@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# hala
-=======
+
 This GitHub repository, titled "OOM-X-IIoTID," is dedicated to showcasing our pioneering work on Manifold Adversarial Attacks in the context of Cybersecurity and the Industrial Internet of Things (IIoT). As far as we are aware, this is the first instance of such an approach in these domains.
 The name "OOM-X-IIoTID" is derived from the integration of ON and OFF manifold adversarial attacks with the  X-IIoTID dataset.
  ** Creadit: The author of the  X-IIoTID Dataset is Al-Hawawreh et al., 2021. For more details, refer to DOI 10.21227/mpb6-py55.
